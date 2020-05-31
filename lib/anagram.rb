@@ -11,4 +11,5 @@ class Anagram
       (@word.split("").sort) == (new_words.split("").sort)
     end
   end
+  
 end
